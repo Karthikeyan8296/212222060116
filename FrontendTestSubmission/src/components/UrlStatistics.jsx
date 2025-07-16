@@ -21,7 +21,7 @@ const UrlStatistics = () => {
   const [stats] = useState([
     {
       originalUrl: "https://example.com",
-      shortcode: "YT",
+      shortcode: "Saveetha",
       createdAt: new Date(),
       expiresAt: new Date(Date.now() + 30 * 60000),
       clicks: dummyClicks(),
